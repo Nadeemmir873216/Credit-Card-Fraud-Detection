@@ -113,6 +113,7 @@ app.py                # Streamlit application
 fraud_model.pkl       # Trained Random Forest model
 notebook.ipynb        # Data analysis and model training
 requirements.txt      # Dependencies
+DemoCheck.csv         # Check the working of the model in demo 
 README.md
 ```
 
@@ -147,6 +148,6 @@ README.md
 
 ## Author
 
-Nadeem Ahmed
+Nadeem Ahmed Mir
 
 Data Science Student | Machine Learning & AI
